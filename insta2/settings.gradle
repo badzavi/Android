@@ -1,0 +1,2 @@
+rootProject.name='instagram(hw4 on kotlin)'
+include ':app'
